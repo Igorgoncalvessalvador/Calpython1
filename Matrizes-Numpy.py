@@ -77,7 +77,7 @@ matriz.min()
 
 
 #Exercicio 5 - crie um array de números que vai de 0 a 1000.
-a = np.arange(1000)
+a = np.arange(1001)
 a
 
 
